@@ -1,4 +1,4 @@
- """# 🤖 Yes/No Question Answering Chatbot (LSTM-based)
+ 🤖 Yes/No Question Answering Chatbot (LSTM-based)
 
 This project implements a **Deep Learning Chatbot** using **LSTM (Long Short-Term Memory)** networks that reads short stories and answers **yes/no questions** based on the story’s context.  
 It combines **natural language understanding**, **sequence modeling**, and **contextual reasoning** to mimic reading comprehension.
