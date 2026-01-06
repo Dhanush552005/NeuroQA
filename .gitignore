@@ -1,20 +1,15 @@
-# --- ML Models ---
-# Ignore the actual weight files (the heavy part)
+
 *.h5
 *.bin
 *.pt
 *.pkl
 
-# --- Environments ---
 venv/
 env/
 __pycache__/
 .env
 
-# --- Frontend ---
 node_modules/
 dist/
 .DS_Store
-
-# --- Backend ---
 transformer_model/tf_model.h5  # Specifically ignore the heavy brain
