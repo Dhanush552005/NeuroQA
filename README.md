@@ -28,7 +28,7 @@ This section details the design and implementation of the machine learning model
 
 ### 🧠 Model Architecture
 
-The chatbot uses a **Transformer (DistilBERT)** architecture, which provides significant improvements over traditional LSTMs by using **Self-Attention** mechanisms to understand the relationship between different parts of a story.
+The chatbot uses a **Transformer (DistilBERT)** architecture, which understand the relationship between different parts of a story.
 
 
 
